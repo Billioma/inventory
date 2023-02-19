@@ -1,0 +1,15 @@
+export { default as avatar } from "./avatar.png";
+export { default as logo } from "./logo.png";
+export { default as log } from "./log.png";
+export { default as snack1 } from "./snack1.png";
+export { default as snack2 } from "./snack2.png";
+export { default as rev } from "./rev.png";
+export { default as bag } from "./bag.png";
+export { default as box } from "./box.png";
+export { default as cancel } from "./cancel.png";
+export { default as cat } from "./cat.png";
+export { default as location } from "./location.png";
+export { default as user } from "./user.png";
+export { default as profit } from "./profit.png";
+export { default as cost } from "./cost.png";
+export { default as coin } from "./coin.png";

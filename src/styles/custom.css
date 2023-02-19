@@ -1,0 +1,6 @@
+.link_box:hover .li {
+  color: #1570ef;
+}
+.link_box:hover .log {
+  color: red;
+}
